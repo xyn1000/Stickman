@@ -1,0 +1,67 @@
+{
+  "setting": {
+    "height": 1000,
+    "width": 500,
+    "floorHeight": 300
+  },
+  "stickman": {
+    "x": 20.0,
+    "stickmanSize": "normal"
+  },
+
+  "cloud1": {
+    "cloudVelocity": 0.1,
+    "cloudX": 30,
+    "cloudY": 60,
+    "cloudHeight": 10,
+    "cloudWidth": 40
+  },
+
+  "enemy1": {
+    "enemyVelocity": 0.5,
+    "enemyX": 250,
+    "enemyY": 150,
+    "enemyHeight": 17,
+    "enemyWidth": 23 ,
+    "enemyColor": "green",
+    "enemyMove": "noMovement"
+  },
+  "enemy2": {
+    "enemyVelocity": 1,
+    "enemyX": 300,
+    "enemyY": 300,
+    "enemyHeight": 34,
+    "enemyWidth": 46 ,
+    "enemyColor": "red",
+    "enemyMove": "rightToLeft"
+  },
+
+  "platformHeight": 9,
+  "platformWidth": 80,
+  "platform1": {
+    "x": 150,
+    "y": 240
+  },
+  "platform2": {
+    "x": 250,
+    "y": 150
+  },
+  "platform3": {
+    "x": 320,
+    "y": 100
+  },
+
+  "flag": {
+    "x": 345,
+    "y": 78,
+    "Height": 24,
+    "Width":48
+  },
+
+  "mushroom": {
+    "x": 180,
+    "y": 240,
+    "Height": 22.5,
+    "Width": 28
+  }
+}
